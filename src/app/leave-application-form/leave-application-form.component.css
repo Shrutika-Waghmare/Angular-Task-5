@@ -1,0 +1,18 @@
+
+.leaveForm{
+    border: 1px solid #000;
+    margin-top: 5rem;
+}
+
+.dateFormat{
+    display: flex;
+}
+
+input{
+    width: 6rem;
+    padding-top: 0.2rem;
+}
+
+.leaveBtn{
+float: right;
+}
